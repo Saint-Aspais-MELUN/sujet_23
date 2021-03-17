@@ -1,6 +1,6 @@
 # Sujet 23
 
-Ce sujet comporte deux exercices : voir le PDF ci-joint
+Ce sujet comporte deux exercices : voir le PDF ci-joint.  
 Pour le premier exercice, vous devez écrire le code demandé dans le fichier `exercice1.py`.  
 Pour le deuxième, il s'agit de compléter le code fourni dans le fichier  `exercice2.py`.  
 - Les fichiers à compléter sont dans le dossier exercices.   
