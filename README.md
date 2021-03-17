@@ -8,10 +8,14 @@ Pour le deuxième, il s'agit de compléter le code fourni.
 •	Si vous travaillez avec repl.it, modifier le fichier .replit:
 
 Si vous voulez exécuter l'exercice 1, écrire :  
+
 `run = "python3 exercices/exercice1.py"  
+
 language = "python3"`  
   
 Si vous voulez exécuter l'exercice 2, écrire :  
+
 `run = "python3 exercices/exercice2.py"  
+
 language = "python3"`
 
