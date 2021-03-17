@@ -1,16 +1,5 @@
 from exercices.exercice1 import *
 
-def test_taille():
-    ## Ici le code d'initialisation si nécessaire
-    a = {
-        'F':['B','G'],
-        'B':['A','D'],
-        'A':['',''],
-        'D':['C','E'],
-        'C':['',''],
-        'E':['',''],
-        'G':['','I'],
-        'I':['','H'],
-        'H':['','']
-    }
-    assert taille(a,'F') == 9
+def test_occurence_lettres(phrase):
+    phrase = "Hello world !"
+    assert occurence_lettres(phrase) == {'H': 1, 'e': 1, 'l': 3, 'o': 2, ' ': 2, 'w': 1, 'r': 1, 'd': 1, '!': 1}
