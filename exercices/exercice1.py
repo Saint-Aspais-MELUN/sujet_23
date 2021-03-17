@@ -1,2 +1,2 @@
-def taille(arbre, lettre):
-    return ...
+def occurence_lettres(phrase):
+    
